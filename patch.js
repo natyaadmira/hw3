@@ -1,9 +1,3 @@
-colorMode(HSB):
-var colors = [0,65,240]
-
-stop condition in recursive is when box gets too small
-if (size < (width*height)/7)
-
 function NatyaPatch(x, y) {
   noFill();
   colorMode(HSB)
